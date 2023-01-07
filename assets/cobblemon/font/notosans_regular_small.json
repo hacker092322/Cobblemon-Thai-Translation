@@ -2,10 +2,13 @@
     "providers": [
         {
             "type": "ttf",
-            "file": "cobblemon:notosansthai_bold.ttf",
+            "file": "cobblemon:notosansthai_regular.ttf",
             "shift": [0, 0],
-            "size": 20.0,
+            "size": 13.0,
             "oversample": 8.0
+        },
+        {
+            
         }
     ]
 }

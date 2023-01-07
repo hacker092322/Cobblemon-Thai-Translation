@@ -1,0 +1,10 @@
+{"providers":[{
+
+"type": "ttf",
+"file": "minecraft:kanit_regular.ttf",
+"size": 16,
+"shift": [0.0,0.0],
+"oversample": 10.0
+
+}]
+}
