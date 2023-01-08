@@ -5,7 +5,8 @@
             "file": "cobblemon:kanit_medium.ttf",
             "shift": [0, 0.0],
             "size": 23,
-            "oversample": 6.0
+            "oversample": 6.0,
+            "space": "_"
         }
     ]
 }
