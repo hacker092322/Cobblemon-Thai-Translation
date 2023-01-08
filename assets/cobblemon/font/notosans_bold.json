@@ -8,7 +8,11 @@
             "oversample": 8.0
         },
         {
-            
+            "type": "ttf",
+            "file": "cobblemon:notosansthaicondensed_bold.ttf",
+            "shift": [0, 0],
+            "size": 20.0,
+            "oversample": 8.0
         }
     ]
 }

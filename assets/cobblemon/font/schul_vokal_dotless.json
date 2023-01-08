@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "ttf",
-            "file": "cobblemon:kanit_regular.ttf",
+            "file": "cobblemon:kanit_medium.ttf",
             "shift": [0, 0.0],
             "size": 24.0,
             "oversample": 6.0
