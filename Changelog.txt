@@ -76,3 +76,54 @@ Dire Claw
 Psyshield Bash
 Mountain Gale
 Last Respects
+Rock Climb
+Confide
+Magic Room
+Body Press
+Chilling Water
+Water Pledge
+Fire Pledge
+Grass Pledge
+Ice Spinner
+Pounce
+Trailblaze
+Tera Blast
+Relic Song
+Misty Explosion
+Rising Voltage
+Terrain Pulse
+Skitter Smack
+Burning Jealousy
+Lash Out
+Flip Turn
+Scorching Sands
+Power Shift
+Power Trick
+Chatter
+Searing Shot
+Trick-or-Treat
+Forest's Curse
+Powder
+Baneful Bunker
+Toxic Thread
+Gear Up
+Tearful Look
+Salt Cure
+Aqua Cutter
+Court Change
+Clangorous Soul
+Bolt Beak
+Fishious Rend
+No Retreat
+Tar Shot
+Magic Powder
+Dragon Darts
+Aura Wheel
+Overdrive
+Apple Acid
+Grav Apple
+Strange Steam
+Shell Side Arm
+Attack Order
+Defend Order
+Heal Order
