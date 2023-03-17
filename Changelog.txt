@@ -1,129 +1,29 @@
-Dark Void
-Seed Flare
-Shadow Force
-Guard Split
-Power Split
-Scald
-Sacred Sword
-Night Daze
-Tail Slap
-Head Charge
-Techno Blast
-Secret Sword
-Bolt Strike
-Blue Flare
-V-create
-Flying Press
-Sticky Web
-Parabolic Charge
-Flower Shield
-Electrify
-Fairy Lock
-Diamond Storm
-Hyperspace Hole
-Water Shuriken
-Oblivion Wing
-Origin Pulse
-Precipice Blades
-Hyperspace Fury
-First Impression
-Sparkling Aria
-Ice Hammer
-Floral Healing
-Solar Blade
-Pollen Puff
-Anchor Shot
-Core Enforcer
-Instruct
-Beak Blast
-Clanging Scales
-Dragon Hammer
-Brutal Swing
-Shell Trap
-Shadow Bone
-Accelerock
-Sunsteel Strike
-Moongeist Beam
-Zing Zap
-Mind Blown
-Plasma Fists
-Photon Geyser
-Dynamax Cannon
-Snipe Shot
-Jaw Lock
-Stuff Cheeks
-Teatime
-Octolock
-Decorate
-Drum Beating
-Snap Trap
-Pyro Ball
-Branch Poke
-Obstruct
-False Surrender
-Meteor Assault
-Scale Shot
-Grassy Glide
-Poltergeist
-Triple Axel
-Wicked Blow
-Surging Strikes
-Dragon Energy
-Fiery Wrath
-Glacial Lance
-Astral Barrage
-Dire Claw
-Psyshield Bash
-Mountain Gale
-Last Respects
-Rock Climb
-Confide
-Magic Room
-Body Press
-Chilling Water
-Water Pledge
-Fire Pledge
-Grass Pledge
-Ice Spinner
-Pounce
-Trailblaze
-Tera Blast
-Relic Song
-Misty Explosion
-Rising Voltage
-Terrain Pulse
-Skitter Smack
-Burning Jealousy
-Lash Out
-Flip Turn
-Scorching Sands
-Power Shift
-Power Trick
-Chatter
-Searing Shot
-Trick-or-Treat
-Forest's Curse
-Powder
-Baneful Bunker
-Toxic Thread
-Gear Up
-Tearful Look
-Salt Cure
-Aqua Cutter
-Court Change
-Clangorous Soul
-Bolt Beak
-Fishious Rend
-No Retreat
-Tar Shot
-Magic Powder
-Dragon Darts
-Aura Wheel
-Overdrive
-Apple Acid
-Grav Apple
-Strange Steam
-Shell Side Arm
-Attack Order
-Defend Order
-Heal Order
+1.1
+------------------------------------------------------------------------------------------------
+ -ใส่ชื่อไทยของ Walking Wake และ Iron Leaves
+ -แปลท่าอีก 129 ท่ามีดังนี้: Dark Void, Seed Flare, Shadow Force, Guard Split, Power Split, Scald, 
+Sacred Sword, Night Daze, Tail Slap, Head Charge, Techno Blast, Secret Sword, Bolt Strike, 
+Blue Flare, V-create, Flying Press, Sticky Web, Parabolic Charge, Flower Shield, Electrify, 
+Fairy Lock, Diamond Storm, Hyperspace Hole, Water Shuriken, Oblivion Wing, Origin Pulse, 
+Precipice Blades, Hyperspace Fury, First Impression, Sparkling Aria, Ice Hammer, Floral Healing, 
+Solar Blade, Pollen Puff, Anchor Shot, Core Enforcer, Instruct, Beak Blast, Clanging Scales, 
+Dragon Hammer, Brutal Swing, Shell Trap, Shadow Bone, Accelerock, Sunsteel Strike, 
+Moongeist Beam, Zing Zap, Mind Blown, Plasma Fists, Photon Geyser, Dynamax Cannon, Snipe Shot, 
+Jaw Lock, Stuff Cheeks, Teatime, Octolock, Decorate, Drum Beating, Snap Trap, Pyro Ball, 
+Branch Poke, Obstruct, False Surrender, Meteor Assault, Scale Shot, Grassy Glide, Poltergeist, 
+Triple Axel, Wicked Blow, Surging Strikes, Dragon Energy, Fiery Wrath, Glacial Lance, 
+Astral Barrage, Dire Claw, Psyshield Bash, Mountain Gale, Last Respects, Rock Climb, Confide, 
+Magic Room, Body Press, Chilling Water, Water Pledge, Fire Pledge, Grass Pledge, Ice Spinner, 
+Pounce, Trailblaze, Tera Blast, Relic Song, Misty Explosion, Rising Voltage, Terrain Pulse, 
+Skitter Smack, Burning Jealousy, Lash Out, Flip Turn, Scorching Sands, Power Shift, Power Trick, 
+Chatter, Searing Shot, Trick-or-Treat, Forest's Curse, Powder, Baneful Bunker, Toxic Thread, 
+Gear Up, Tearful Look, Salt Cure, Aqua Cutter, Court Change, Clangorous Soul, Bolt Beak, 
+Fishious Rend, No Retreat, Tar Shot, Magic Powder, Dragon Darts, Aura Wheel, Overdrive, 
+Apple Acid, Grav Apple, Strange Steam, Shell Side Arm, Attack Order, Defend Order, Heal Order
+ -แปลไอเทมวิวัฒนาการที่เพิ่ม ver. 1.3.0 มีดังนี้ Deep Sea Scale, Deep Sea Tooth, Reaper Cloth,
+Prism Scale, Sachet, Whipped Dream, Strawberry Sweet, Love Sweet, Berry Sweet, Clover Sweet, 
+Flower Sweet, Star Sweet, Ribbon Sweet, Chipped Pot, Cracked Pot, Sweet Apple, Tart Apple, 
+Galarica Cuff, Galarica Wreath, Peat Block
+ -แปลไอเทมที่ถือ และส่วนที่เกี่ยวข้อง
+ -แปล Advancements ที่เพิ่มมาและแก้ไขคำแปล
+ -แปลส่วนอื่น ๆ ที่อยู่ใน en_us
