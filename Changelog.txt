@@ -1,7 +1,6 @@
-1.1
-------------------------------------------------------------------------------------------------
+1.1.0
  -ใส่ชื่อไทยของ Walking Wake และ Iron Leaves
- -แปลคำอธิบายในโปเกเด็กช์ของโปเกมอนดังนี้: คิโมริ, จุปไทล์, จูไคน์, อาชาโม, วาคาชาโม, บาชาโม, มิซึโกโร, 
+ -แปลคำอธิบายโปเกมอนในโปเกเด็กช์เพิ่มมีดังนี้: คิโมริ, จุปไทล์, จูไคน์, อาชาโม, วาคาชาโม, บาชาโม, มิซึโกโร, 
 นูมาโคร, ลากลาจ, นาเอเติล, ฮายาชิกาเมะ, โดไดโทส, ฮิโกซารุ, โมคาซารุ, โกคาซารุ, โพจจามะ, โพจไทชิ, 
 เอ็มเพลท์, สึทาจะ, จาโนวี, จาโลดา, โพคาบู, จาโอบู, เอ็นบูโอ, มิจูมารุ, ฟุตาจิมารุ, ไดเคนคิ, ฮาริมารอน, 
 ฮาริบอร์ก, บริการอน, ฟ็อกโกะ, เทลนาร์, มาฟ็อกซี, เคโรมัตซึ, เกโคกาชิระ, เก็คโคกะ, โมคุโร, ฟุคุซึโร, จูไนเปอร์,
@@ -26,12 +25,12 @@ Chatter, Searing Shot, Trick-or-Treat, Forest's Curse, Powder, Baneful Bunker, T
 Gear Up, Tearful Look, Salt Cure, Aqua Cutter, Court Change, Clangorous Soul, Bolt Beak, 
 Fishious Rend, No Retreat, Tar Shot, Magic Powder, Dragon Darts, Aura Wheel, Overdrive, 
 Apple Acid, Grav Apple, Strange Steam, Shell Side Arm, Attack Order, Defend Order, Heal Order
- -แปลไอเทมวิวัฒนาการที่เพิ่ม ver. 1.3.0 มีดังนี้: Deep Sea Scale, Deep Sea Tooth, Reaper Cloth,
+ -แปลไอเทมวิวัฒนาการที่เพิ่มใน Cobblemon ver. 1.3.0 มีดังนี้: Deep Sea Scale, Deep Sea Tooth, Reaper Cloth,
 Prism Scale, Sachet, Whipped Dream, Strawberry Sweet, Love Sweet, Berry Sweet, Clover Sweet, 
 Flower Sweet, Star Sweet, Ribbon Sweet, Chipped Pot, Cracked Pot, Sweet Apple, Tart Apple, 
 Galarica Cuff, Galarica Wreath, Peat Block
  -แปลไอเทมที่ถือ และส่วนที่เกี่ยวข้อง
  -แปล Advancements ที่เพิ่มมาและแก้ Advancements เก่า
- -แปลข้อความที่บอกสถานการณ์ระหว่างการต่อสู้ที่เพิ่มมาใน ver. 1.3.0
+ -แปลข้อความที่บอกสถานการณ์ระหว่างการต่อสู้ที่เพิ่มมาใน Cobblemon ver. 1.3.0
  -เปลี่ยนข้อความที่เกี่ยวกับ evolution
  -แปลส่วนอื่น ๆ ที่อยู่ใน en_us
